@@ -1,5 +1,5 @@
 # cartooning_an_image
 
-### dependencies 
-opencv
+### Dependencies 
+opencv\
 python version > 3.7
